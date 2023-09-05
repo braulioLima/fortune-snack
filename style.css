@@ -95,11 +95,6 @@ h1 {
     font-weight: 700;
 }
 
-/* .opened-snack-text {
-    width: 25rem;
-    text-align: center;
-} */
-
 button {
     margin: 0;
     border: 0;
@@ -119,10 +114,6 @@ p {
 .hide {
     display: none;
 }
-
-/* div > p {
-    font: 400 2.4rem 'Dancing Script', cursive;
-} */
 
 @keyframes gradient {
     0% {
